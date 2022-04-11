@@ -21,7 +21,7 @@
 
 **Title:** Towards robotic laboratory automation Plug & Play: The “LAPP” framework  
 **Published in:** SLAS Technology  
-**DOI:** https://doi.org/10.1016/j.slast.2021.11.003  
+**DOI:** [10.1016/j.slast.2021.11.003](https://doi.org/10.1016/j.slast.2021.11.003)  
 **Access type:** Open access
 
 ## Pt. 2. Teaching-free robot integration
