@@ -41,4 +41,16 @@
 **Title:** Towards Robotic Laboratory Automation Plug & Play: Teaching-free Robot Integration with the LAPP Digital Twin  
 **Target journal:** SLAS Technology
 
+## Pt. 3. Robotic Action Primitives
 
+### Paper (work in progress)
+
+**Title:** Towards Robotic Laboratory Automation Plug & Play: Robotic Action Primitives  
+**Target journal:** SLAS Technology
+
+## Related work from the team
+
+### Master thesis (work in progress)
+
+**Author:** Janek Janßen  
+**Title:** Lab-Automation: Building a User-Interface for a teleoperated Mobile Robot platform
