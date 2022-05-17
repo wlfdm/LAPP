@@ -33,8 +33,10 @@
 **Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/SiLA_Academic_User_Conf_2.pptx)  
 **Recording:** [YouTube link](https://youtu.be/-XdhACJ3nrk?t=993)
 
-**Title**: TBD  
-**Presented at:** [Pharmaceutical Mobile Robotics Congress](https://www.oxfordglobal.co.uk/pharmaceutical-mobile-robotics/)
+**Title**: Towards Robotic Laboratory Automation Plug & Play: The “LAPP” Framework  
+**Presented at:** [Pharmaceutical Mobile Robotics Congress, 21st April 2022](https://www.oxfordglobal.co.uk/pharmaceutical-mobile-robotics/)  
+**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/Pharma_mob_rob_2022.pptx)  
+**Recording:** [YouTube link](https://youtu.be/79DsbaHmnOE)
 
 ### Paper (preprint in progress)
 
@@ -54,3 +56,8 @@
 
 **Author:** Janek Janßen  
 **Title:** Lab-Automation: Building a User-Interface for a teleoperated Mobile Robot platform
+
+### Master thesis (work in progress)
+
+**Author:** Panna Zsoldos  
+**Title:** Integration of mobile robots into the SILA 2 laboratory automation framework
