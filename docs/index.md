@@ -38,10 +38,12 @@
 **Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/Pharma_mob_rob_2022.pptx)  
 **Recording:** [YouTube link](https://youtu.be/79DsbaHmnOE)
 
-### Paper (preprint in progress)
+### Paper (preprint)
 
 **Title:** Towards Robotic Laboratory Automation Plug & Play: Teaching-free Robot Integration with the LAPP Digital Twin  
-**Target journal:** SLAS Technology
+**Target journal:** SLAS Technology  
+**DOI:** [https://doi.org/10.48550/arXiv.2205.08210](https://doi.org/10.48550/arXiv.2205.08210)  
+**Access type:** Preprint  
 
 ## Pt. 3. Robotic Action Primitives
 
