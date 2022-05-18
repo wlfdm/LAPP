@@ -4,16 +4,28 @@
 
 ### Presentations
 
-**Title:** Laboratories as a field of application for mobile manipulators  
-**Presented at:** [2nd BioSASH Online Labautomation Hackathon by BioLAGO](https://www.biolago.org/de/news/details/erfolgreiche-mitteleinwerbung-dank-spitzenforschung.html), 14th October 2021  
-**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/BioSASH_2.pptx)
+**Title:** Laboratories as a Field of Application for Mobile Manipulators  
+**Presented at:** [2nd BioSASH Online Labautomation Hackathon by BioLAGO](https://www.biolago.org/de/news/details/erfolgreiche-mitteleinwerbung-dank-spitzenforschung.html), 14.10.2021, online  
+**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/BioSASH_2.pptx)  
+  
+### Papers
+
+**Title:** A Review on Robotics in Life Science Automation  
+**Published in:** AIS 2019: 14th International Symposium on Applied Informatics and Related Areas organized in the frame of Hungarian Science Festival 2019 by Óbuda University, 14.11.2019, Székesfehérvár, Hungary  
+**DOI:** [link](http://ais.amk.uni-obuda.hu/proceedings/2019/AIS2019_Proceedings.pdf#page=107)  
+**Access type:** Open access  
+
+**Title:** Device Integration Concepts in Laboratory Automation    
+**Published in:** 2020 IEEE 24th International Conference on Intelligent Engineering Systems (INES), 8-10.7.2020, Reykjavík, Iceland  
+**DOI:** [10.1109/INES49302.2020.9147171](https://doi.org/10.1109/INES49302.2020.9147171)  
+**Access type:** IEEE Xplore  
 
 ## Pt. 1. Concept proposal
 
 ### Presentations
 
 **Title**: Taking SiLA a Step Further with Robotic Laboratory Automation Plug & Play The "LAPP" Framework  
-**Presented at:** [SiLA User Conference, 8th June 2021](https://sila-standard.com/sila-user-conference-june-8th-agenda-ready-register-today-for-the-free-event/)  
+**Presented at:** [SiLA User Conference, 8.6.2021, online](https://sila-standard.com/sila-user-conference-june-8th-agenda-ready-register-today-for-the-free-event/)  
 **Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/SiLA_User_Conf_.pptx)  
 **Recording:** [YouTube link](https://youtu.be/Jft289tk2gA)
 
@@ -29,12 +41,12 @@
 ### Presentations
 
 **Title**: A Concept for Teaching-free Robotization of Laboratory Equipment  
-**Presented at:** [SiLA Academic User Conference, 31st March 2022](https://sila-standard.com/second-sila-academic-user-confrence-31st-march-1600-1730-cet/)  
+**Presented at:** [SiLA Academic User Conference, 31.03.2022, online](https://sila-standard.com/second-sila-academic-user-confrence-31st-march-1600-1730-cet/)  
 **Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/SiLA_Academic_User_Conf_2.pptx)  
 **Recording:** [YouTube link](https://youtu.be/-XdhACJ3nrk?t=993)
 
 **Title**: Towards Robotic Laboratory Automation Plug & Play: The “LAPP” Framework  
-**Presented at:** [Pharmaceutical Mobile Robotics Congress, 21st April 2022](https://www.oxfordglobal.co.uk/pharmaceutical-mobile-robotics/)  
+**Presented at:** [Pharmaceutical Mobile Robotics Congress, 21.04.2022, London, UK](https://www.oxfordglobal.co.uk/pharmaceutical-mobile-robotics/)  
 **Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/Pharma_mob_rob_2022.pptx)  
 **Recording:** [YouTube link](https://youtu.be/79DsbaHmnOE)
 
@@ -42,7 +54,7 @@
 
 **Title:** Towards Robotic Laboratory Automation Plug & Play: Teaching-free Robot Integration with the LAPP Digital Twin  
 **Target journal:** SLAS Technology  
-**DOI:** [https://doi.org/10.48550/arXiv.2205.08210](https://doi.org/10.48550/arXiv.2205.08210)  
+**DOI:** [10.48550/arXiv.2205.08210](https://doi.org/10.48550/arXiv.2205.08210)  
 **Access type:** Preprint  
 
 ## Pt. 3. Robotic Action Primitives
