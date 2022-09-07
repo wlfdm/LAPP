@@ -61,18 +61,18 @@
 **DOI:** [10.48550/arXiv.2205.08210](https://doi.org/10.48550/arXiv.2205.08210)  
 **Access type:** Preprint  
 
-## Pt. 3. Robotic Activity Representations  
+## Pt. 3. Reference Architercture Model 
 
 ### Paper (work in progress)  
 
-**Title:** Towards Robotic Laboratory Automation Plug & Play: Robotic Activity Representations  
+**Title:** Towards Robotic Laboratory Automation Plug & Play: Reference Architecture Model  
 **Target journal:** SLAS Technology 
   
 ## Pt. 4. Proof of Concept Studies  
   
 ### Paper (work in progress)  
   
-**Title:** Towards Robotic Laboratory Automation Plug & Play: A Blueprint for Integrating a Sample Transportation Lab Robot  
+**Title:** Towards Laboratory Automation Plug \& Play: Robotic Labware Transfer - A Proof of Concept Study  
 **Target journal:** SLAS Technology
 
 ## Related work from the team
