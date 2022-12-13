@@ -6,7 +6,7 @@
 
 **Title:** Laboratories as a Field of Application for Mobile Manipulators  
 **Presented at:** [2nd BioSASH Online Labautomation Hackathon by BioLAGO](https://www.biolago.org/de/news/details/erfolgreiche-mitteleinwerbung-dank-spitzenforschung.html), 14.10.2021, online  
-**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/BioSASH_2.pptx)  
+**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/20211014_BioSASH_2.pptx?raw=true)  
   
 ### Papers
 
@@ -26,7 +26,7 @@
 
 **Title**: Taking SiLA a Step Further with Robotic Laboratory Automation Plug & Play The "LAPP" Framework  
 **Presented at:** [SiLA User Conference, 8.6.2021, online](https://sila-standard.com/sila-user-conference-june-8th-agenda-ready-register-today-for-the-free-event/)  
-**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/SiLA_User_Conf_.pptx)  
+**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/20210608_SiLA_User_Conf_.pptx?raw=true)  
 **Recording:** [YouTube link](https://youtu.be/Jft289tk2gA)
 
 ### Paper
@@ -42,13 +42,17 @@
 
 **Title**: A Concept for Teaching-free Robotization of Laboratory Equipment  
 **Presented at:** [SiLA Academic User Conference, 31.03.2022, online](https://sila-standard.com/second-sila-academic-user-confrence-31st-march-1600-1730-cet/)  
-**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/SiLA_Academic_User_Conf_2.pptx)  
+**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/20220331_SiLA_Academic_User_Conf_2.pptx?raw=true)  
 **Recording:** [YouTube link](https://youtu.be/-XdhACJ3nrk?t=993)
 
 **Title**: Towards Robotic Laboratory Automation Plug & Play: The “LAPP” Framework  
 **Presented at:** [Pharmaceutical Mobile Robotics Congress, 21.04.2022, London, UK](https://www.oxfordglobal.co.uk/pharmaceutical-mobile-robotics/)  
-**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/Pharma_mob_rob_2022.pptx)  
+**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/20220421_Pharma_mob_rob.pptx?raw=true)  
 **Recording:** [YouTube link](https://youtu.be/79DsbaHmnOE)
+
+**Title**: Standardized Integration Framework for Laboratory Automation Robots  
+**Presented at:** [Future Labs Live, 07.06.2022, Basel, Switzerland](https://www.terrapinn.com/conference/future-labs-live/index.stm)  
+**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/20220607_FutureLabsLive.pptx?raw=true)  
 
 ### Paper (preprint)
 
@@ -57,11 +61,18 @@
 **DOI:** [10.48550/arXiv.2205.08210](https://doi.org/10.48550/arXiv.2205.08210)  
 **Access type:** Preprint  
 
-## Pt. 3. Robotic Action Primitives
+## Pt. 3. Reference Architercture Model 
 
-### Paper (work in progress)
+### Paper (work in progress)  
 
-**Title:** Towards Robotic Laboratory Automation Plug & Play: Robotic Action Primitives  
+**Title:** Towards Robotic Laboratory Automation Plug & Play: Reference Architecture Model  
+**Target journal:** SLAS Technology 
+  
+## Pt. 4. Proof of Concept Studies  
+  
+### Paper (work in progress)  
+  
+**Title:** Towards Laboratory Automation Plug \& Play: Robotic Labware Transfer - A Proof of Concept Study  
 **Target journal:** SLAS Technology
 
 ## Related work from the team
