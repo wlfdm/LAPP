@@ -54,6 +54,11 @@
 **Presented at:** [Future Labs Live, 07.06.2022, Basel, Switzerland](https://www.terrapinn.com/conference/future-labs-live/index.stm)  
 **Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/20220607_FutureLabsLive.pptx?raw=true)  
 
+**Title**: Standardized Integration for Lab Robots  
+**Presented at:** [2022 ISPE Pharma 4.0™ and Annex 1 Conference, 07-08.12.2022, Vienna, Austria](https://ispe.org/conferences/2022-pharma-40-annex-1-conference)  
+**Slides:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/20221208_ISPE_Pharma_4.0.pdf)  
+
+
 ### Paper (preprint)
 
 **Title:** Towards Robotic Laboratory Automation Plug & Play: Teaching-free Robot Integration with the LAPP Digital Twin  
@@ -70,6 +75,13 @@
   
 ## Pt. 4. Proof of Concept Studies  
   
+### Hackathon  
+**Event:** [4th BioSASH Hackathon, 29-30.09.2022, Konstanz, Germany](https://www.biolago.org/de/blog/details/successful-hackathon-in-the-biosash-proejct-video-now-online.html)  
+**Intro:** [Pick & place labware transportation with benchtop and mobile robots](https://youtu.be/49YD7MzXBL89)  
+**Results:** [bioSASH final result of hackathon Pick & place labware transportation with benchtop and robots](https://youtu.be/G2hN5eSVpAI)  
+**Code:** [sila_pick_and_place_example](https://gitlab.com/SiLA2/sila_robotics/sila_pick_and_place_example)  
+**Docs:** [Google Drive](https://drive.google.com/drive/folders/1Jd-ImKWtrL1viHv7eXeuQXUkQ7uTBDAE?usp=share_link)  
+
 ### Paper (work in progress)  
   
 **Title:** Towards Laboratory Automation Plug \& Play: Robotic Labware Transfer - A Proof of Concept Study  
