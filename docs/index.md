@@ -52,11 +52,7 @@
 
 **Title**: Standardized Integration Framework for Laboratory Automation Robots  
 **Presented at:** [Future Labs Live, 07.06.2022, Basel, Switzerland](https://www.terrapinn.com/conference/future-labs-live/index.stm)  
-**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/20220607_FutureLabsLive.pptx?raw=true)  
-
-**Title**: Standardized Integration for Lab Robots  
-**Presented at:** [2022 ISPE Pharma 4.0™ and Annex 1 Conference, 07-08.12.2022, Vienna, Austria](https://ispe.org/conferences/2022-pharma-40-annex-1-conference)  
-**Slides:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/20221208_ISPE_Pharma_4.0.pdf)  
+**Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/20220607_FutureLabsLive.pptx?raw=true) 
 
 
 ### Paper (preprint)
@@ -67,6 +63,12 @@
 **Access type:** Preprint  
 
 ## Pt. 3. Reference Architercture Model 
+
+### Presentations  
+
+**Title**: Standardized Integration for Lab Robots  
+**Presented at:** [2022 ISPE Pharma 4.0™ and Annex 1 Conference, 07-08.12.2022, Vienna, Austria](https://ispe.org/conferences/2022-pharma-40-annex-1-conference)  
+**Slides:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/20221208_ISPE_Pharma_4.0.pdf)  
 
 ### Paper (work in progress)  
 
