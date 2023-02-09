@@ -94,10 +94,9 @@
 ### Master thesis
 
 **Author:** Janek Janßen  
-**Title:** Lab-Automation: Building a User-Interface for a teleoperated Mobile Robot platform
-**DOI:** [10.34726/hss.2022.96623]([https://doi.org/10.48550/arXiv.2205.08210](https://doi.org/10.34726/hss.2022.96623))  
+**Title:** Lab-Automation: Building a User-Interface for a teleoperated Mobile Robot platform  
+**DOI:** [10.34726/hss.2022.96623](https://doi.org/10.48550/arXiv.2205.08210)  
 
-https://doi.org/10.34726/hss.2022.96623
 
 ### Master thesis (work in progress)
 
