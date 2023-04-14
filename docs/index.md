@@ -69,6 +69,15 @@
 **Title**: Standardized Integration for Lab Robots  
 **Presented at:** [2022 ISPE Pharma 4.0™ and Annex 1 Conference, 07-08.12.2022, Vienna, Austria](https://ispe.org/conferences/2022-pharma-40-annex-1-conference)  
 **Slides:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/20221208_ISPE_Pharma_4.0.pdf)  
+  
+
+**Title**: Reference Architecture Model for the Integration of Lab Robots  
+**Presented at:** [Pharma Automation & Robotics 2023, 20-21.04.2023, London, UK](https://www.oxfordglobal.co.uk/pharmaceutical-mobile-robotics/)  
+**Slides:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/20230420_Pharma_Automation_Robotics.pdf)  
+
+**Title**: Teaching-free robot integration with LAPP digital twin    
+**Presented at:** [Future Labs Live 2023, 31.05.2023-02.06.2023, Basel, Switzerland](https://www.terrapinn.com/conference/future-labs-live/index.stm)  
+**Slides:** [PDF soon]( )  
 
 ### Paper (work in progress)  
 
