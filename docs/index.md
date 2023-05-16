@@ -73,6 +73,7 @@
 
 **Title**: Reference Architecture Model for the Integration of Lab Robots  
 **Presented at:** [Pharma Automation & Robotics 2023, 20-21.04.2023, London, UK](https://www.oxfordglobal.co.uk/pharmaceutical-mobile-robotics/)  
+**Recording:** [YouTube link](https://youtu.be/RuyWGa-rkZU)  
 **Slides:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/20230420_Pharma_Automation_Robotics.pdf)  
 
 **Title**: Teaching-free robot integration with LAPP digital twin    
