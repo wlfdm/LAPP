@@ -59,8 +59,8 @@
 
 **Title:** Towards Robotic Laboratory Automation Plug & Play: Teaching-free Robot Integration with the LAPP Digital Twin  
 **Target journal:** SLAS Technology  
-**DOI:** [10.48550/arXiv.2205.08210](https://doi.org/10.48550/arXiv.2205.08210)  
-**Access type:** Preprint  
+**DOI:** [10.1016/j.slast.2023.01.003](https://doi.org/10.1016/j.slast.2023.01.003)  
+**Access type:** Open access  
 
 ## Pt. 3. Reference Architercture Model 
 
