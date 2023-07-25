@@ -78,7 +78,7 @@
 
 **Title**: Teaching-free robot integration with LAPP digital twin    
 **Presented at:** [Future Labs Live 2023, 31.05.2023-02.06.2023, Basel, Switzerland](https://www.terrapinn.com/conference/future-labs-live/index.stm)  
-**Slides:** [PDF soon]( )  
+**Slides:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/20230531_FutureLabsLive.pdf)  
 
 ### Paper (work in progress)  
 
