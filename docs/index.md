@@ -94,6 +94,11 @@
 **Code:** [sila_pick_and_place_example](https://gitlab.com/SiLA2/sila_robotics/sila_pick_and_place_example)  
 **Docs:** [Google Drive](https://drive.google.com/drive/folders/1Jd-ImKWtrL1viHv7eXeuQXUkQ7uTBDAE?usp=share_link)  
 
+### Industrial PoC  
+**Title:** Integration of supportive robots in R&D laboratories using the LAPP framework    
+**Award:** [ISPE D/A/CH - Robotics Application of the Year Award, Winner Logistics](https://ispe-dach.org/raya-award-2023/)   
+**Slides:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/20230927_RAYA_EngRoTec-Takeda.pdf)    
+
 ### Paper (work in progress)  
   
 **Title:** Towards Laboratory Automation Plug \& Play: Robotic Labware Transfer - A Proof of Concept Study  
