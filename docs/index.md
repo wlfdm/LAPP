@@ -113,7 +113,8 @@
 **DOI:** [10.34726/hss.2022.96623](https://doi.org/10.34726/hss.2022.96623)  
 
 
-### Master thesis (work in progress)
+### Master thesis
 
 **Author:** Panna Zsoldos  
-**Title:** Integration of mobile robots into the SILA 2 laboratory automation framework
+**Title:** Integration of mobile robots into the SILA 2 laboratory automation framework  
+**Manuscrip:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/Master_Thesis_ZsoldosP_2023.pdf)
