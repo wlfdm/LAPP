@@ -80,6 +80,11 @@
 **Presented at:** [Future Labs Live 2023, 31.05.2023-02.06.2023, Basel, Switzerland](https://www.terrapinn.com/conference/future-labs-live/index.stm)  
 **Slides:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/20230531_FutureLabsLive.pdf)  
 
+**Title**: Towards Robotic Laboratory Automation Plug & Play: The LAPP Reference Architecture Model      
+**Presented at:** [Laboratory of the Future online symposium, 24.01.2024, online](https://www.technologynetworks.com/tn/online-events/laboratory-of-the-future-2024-380502)  
+**Slides:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/20240124-25_LAPP_WolfA.pdf)  
+**Recording:** [YouTube link](https://youtu.be/HrdOL0X-ny8)  
+
 ### Paper (work in progress)  
 
 **Title:** Towards Robotic Laboratory Automation Plug & Play: Reference Architecture Model  
