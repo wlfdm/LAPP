@@ -55,7 +55,7 @@
 **Slides:** [PPTX](https://github.com/wlfdm/LAPP/blob/main/slides/20220607_FutureLabsLive.pptx?raw=true) 
 
 
-### Paper (preprint)
+### Paper  
 
 **Title:** Towards Robotic Laboratory Automation Plug & Play: Teaching-free Robot Integration with the LAPP Digital Twin  
 **Target journal:** SLAS Technology  
@@ -85,10 +85,11 @@
 **Slides:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/20240124-25_LAPP_WolfA.pdf)  
 **Recording:** [YouTube link](https://youtu.be/HrdOL0X-ny8)  
 
-### Paper (work in progress)  
+### Paper (preprint)  
 
-**Title:** Towards Robotic Laboratory Automation Plug & Play: Reference Architecture Model  
-**Target journal:** SLAS Technology 
+**Title:** Towards Robotic Laboratory Automation Plug & Play: Reference Architecture Model for Robot Integration  
+**Target journal:** SLAS Technology  
+**Preprint:** [PDF](https://github.com/wlfdm/LAPP/blob/main/LAPP_RAM_preprint.pdf)  
   
 ## Pt. 4. Proof of Concept Studies  
   
@@ -104,10 +105,11 @@
 **Award:** [ISPE D/A/CH - Robotics Application of the Year Award, Winner Logistics](https://ispe-dach.org/raya-award-2023/)   
 **Slides:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/20230927_RAYA_EngRoTec-Takeda.pdf)    
 
-### Paper (work in progress)  
+### Paper (preprint)  
   
-**Title:** Towards Laboratory Automation Plug \& Play: Robotic Labware Transfer - A Proof of Concept Study  
-**Target journal:** SLAS Technology
+**Title:** Towards Robotic Laboratory Automation Plug & Play: LAPP Reference Implementation with the TIAGo Mobile Manipulator  
+**Target journal:** SLAS Technology  
+**Preprint:** [PDF](https://github.com/wlfdm/LAPP/blob/main/LAPP_TIAGo_preprint.pdf)  
 
 ## Related work from the team
 
