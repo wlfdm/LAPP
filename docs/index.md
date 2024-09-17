@@ -111,6 +111,12 @@
 **Target journal:** SLAS Technology  
 **Preprint:** [PDF](https://github.com/wlfdm/LAPP/blob/main/LAPP_TIAGo_preprint.pdf)  
 
+### Presentations
+
+**Title**: A bioSASH and SiLA journey - Implementing advanced laboratory automation technologies  
+**Presented at:** Future Labs Live, Basel, 27.07.2024  
+**Slides:** [PDF](https://github.com/wlfdm/LAPP/blob/main/slides/20240627_FLL_SRWG_WolfA_v2.pdf)  
+  
 ## Related work from the team
 
 ### Master thesis
